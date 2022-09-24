@@ -2,7 +2,7 @@
 
 ```
 #
-# Copyright (C) 2022 VoidUI Eternity Project
+# Copyright (C) 2022 PixelOs Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
