@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_alioth.mk
+    $(LOCAL_DIR)/exthm_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    yaap_alioth-user \
-    yaap_alioth-userdebug \
-    yaap_alioth-eng
+    exthm_alioth-user \
+    exthm_alioth-userdebug \
+    exthm_alioth-eng
